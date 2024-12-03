@@ -2,10 +2,6 @@ let altura;
 let peso;
 let resultado;
 
-let altura;
-let peso;
-let resultado;
-
 function inicio(){
     resultado = calculo();
     alert("Seu IMC é de: " + resultado); // Mostra o resultado com um alerta na tela
