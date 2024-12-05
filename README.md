@@ -7,7 +7,7 @@ Este projeto tem como objetivo criar uma calculadora de Índice de Massa Corpora
 ## Funcionalidades
 - **Entrada de Dados:** O usuário poderá inserir seu peso (em kg) e altura (em metros, com casas decimais).
 - **Cálculo do IMC:** A fórmula usada será: IMC = peso / (altura * altura).
-- **Classificação:** Exibir a faixa de classificação (Exemplo: Abaixo do peso, Peso normal, Sobrepeso, etc.).
+- **Classificação:** Exibir a faixa de classificação (Abaixo do peso, Peso normal, Sobrepeso, etc.).
 - **Mensagens Personalizadas:** Sugestões com base na classificação obtida.
 
 ## Cronograma de Desenvolvimento
